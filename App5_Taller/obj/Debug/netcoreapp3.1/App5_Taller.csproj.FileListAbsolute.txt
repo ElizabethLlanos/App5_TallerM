@@ -1,0 +1,12 @@
+D:\visual_studio\App5_Taller\App5_Taller\bin\Debug\netcoreapp3.1\App5_Taller.exe
+D:\visual_studio\App5_Taller\App5_Taller\bin\Debug\netcoreapp3.1\App5_Taller.deps.json
+D:\visual_studio\App5_Taller\App5_Taller\bin\Debug\netcoreapp3.1\App5_Taller.runtimeconfig.json
+D:\visual_studio\App5_Taller\App5_Taller\bin\Debug\netcoreapp3.1\App5_Taller.runtimeconfig.dev.json
+D:\visual_studio\App5_Taller\App5_Taller\bin\Debug\netcoreapp3.1\App5_Taller.dll
+D:\visual_studio\App5_Taller\App5_Taller\bin\Debug\netcoreapp3.1\App5_Taller.pdb
+D:\visual_studio\App5_Taller\App5_Taller\obj\Debug\netcoreapp3.1\App5_Taller.AssemblyInfoInputs.cache
+D:\visual_studio\App5_Taller\App5_Taller\obj\Debug\netcoreapp3.1\App5_Taller.AssemblyInfo.cs
+D:\visual_studio\App5_Taller\App5_Taller\obj\Debug\netcoreapp3.1\App5_Taller.csproj.CoreCompileInputs.cache
+D:\visual_studio\App5_Taller\App5_Taller\obj\Debug\netcoreapp3.1\App5_Taller.dll
+D:\visual_studio\App5_Taller\App5_Taller\obj\Debug\netcoreapp3.1\App5_Taller.pdb
+D:\visual_studio\App5_Taller\App5_Taller\obj\Debug\netcoreapp3.1\App5_Taller.genruntimeconfig.cache
